@@ -28,4 +28,7 @@ include 'kotlin-styled'
 // Examples
 include 'examples'
 
+// Kotlin/JS: Ant Design of React wrappers
+include 'kotlin-react-antd'
+
 

@@ -27,4 +27,6 @@ ext {
 
     // kotlin-styled
     styled_version = '1.0.0-pre.68'
+    
+    react_antd_version = '3.15.0'
 }
